@@ -37,7 +37,7 @@ export default function TeamPage() {
           <div className="breadcrumbs text-sm text-cp-secondary p-3 mx-4 md:mx-10 mt-8">
             <ul>
               <li>
-                <Link href="/home">Home</Link>
+                <Link href="/">Home</Link>
               </li>
               <li>
                 <span className="font-semibold">Our Team</span>

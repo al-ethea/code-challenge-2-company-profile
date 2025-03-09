@@ -24,7 +24,7 @@ export default function Navbar() {
 
         {/* Logo - Centered on Mobile */}
         <div className="flex justify-center flex-grow md:flex-grow-0">
-          <Link href="/home">
+          <Link href="/">
             <Image src="/logo.svg" alt="" height={55} width={50} />
           </Link>
         </div>
