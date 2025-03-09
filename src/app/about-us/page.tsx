@@ -34,7 +34,7 @@ export default function AboutUsPage() {
             <div className="bg-white rounded-3xl p-6 md:p-8 border-2 border-cp-font text-cp-font mx-4 md:mx-14 mb-10">
               {/* Company History Section */}
               <div className="pt-15 md:pt-30 text-center space-y-4 md:space-y-6">
-                <h1 className="text-sm">Let's talk about</h1>
+                <h1 className="text-sm">Let&apos;s talk about</h1>
                 <h1 className="text-3xl md:text-5xl font-semibold">
                   Our Company History
                 </h1>
@@ -42,8 +42,8 @@ export default function AboutUsPage() {
                   Founded in 2015, Amaterasun started with a simple vision: to
                   create high-quality, eco-friendly sunscreen products that
                   provide the best protection against UV rays while also being
-                  kind to the environment. Over the years, we've expanded and
-                  innovated, earning the trust of customers worldwide. Key
+                  kind to the environment. Over the years, we&apos;ve expanded
+                  and innovated, earning the trust of customers worldwide. Key
                   milestones include launching our first eco-friendly sunscreen
                   in 2016, expanding our product line to include
                   skincare-infused sunscreens in 2020, and achieving carbon

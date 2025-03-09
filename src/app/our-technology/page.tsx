@@ -34,7 +34,7 @@ export default function TechnologyPage() {
             {/* Content Container */}
             <div className="bg-white rounded-3xl p-6 md:p-8 border-2 border-cp-font text-cp-font mx-4 md:mx-14 mb-10">
               <div className="pt-15 md:pt-30 text-center space-y-4 md:space-y-6">
-                <h1 className="text-sm">Let's talk about</h1>
+                <h1 className="text-sm">Let&apos;s talk about</h1>
                 <h1 className="text-3xl md:text-5xl font-semibold">
                   Our Technology
                 </h1>
