@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+  --color-cp-primary: #fff35c;
+  --color-cp-secondary: #09484c;
+  --color-cp-font: #2f6d7c;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap");
+@layer base {
+  * {
+    font-family: "Didact Gothic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .didact-gothic-regular {
+    font-family: "Didact Gothic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+}
