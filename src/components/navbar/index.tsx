@@ -14,7 +14,8 @@ export default function Navbar() {
 
   return (
     <>
-      <div className="bg-cp-primary border-b-2 border-b-cp-secondary p-3 flex justify-between items-center text-cp-secondary fixed top-0 left-0 right-0 z-50">
+      {/* Increased padding to p-5 */}
+      <div className="bg-cp-primary border-b-2 w-screen border-b-cp-secondary p-5 flex justify-between items-center text-cp-secondary fixed top-0 left-0 right-0 z-50">
         {/* Hamburger Menu for Mobile */}
         <div className="md:hidden">
           <button onClick={toggleMenu} className="text-cp-secondary">
@@ -22,8 +23,8 @@ export default function Navbar() {
           </button>
         </div>
 
-        {/* Logo - Centered on Mobile */}
-        <div className="flex justify-center flex-grow md:flex-grow-0">
+        {/* Logo - Centered */}
+        <div className="absolute left-1/2 transform -translate-x-1/2">
           <Link href="/">
             <Image src="/logo.svg" alt="" height={55} width={50} />
           </Link>
@@ -75,10 +76,10 @@ export default function Navbar() {
 
         {/* Mobile Icons (Search and Bag) */}
         <div className="flex md:hidden items-center space-x-3">
-          <div className="mr-4">
+          <div className="">
             <IoSearchOutline className="text-2xl" />
           </div>
-          <div className="mr-4">
+          <div className="">
             <BsHandbag className="text-xl" />
           </div>
         </div>

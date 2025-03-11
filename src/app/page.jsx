@@ -38,7 +38,7 @@ export default function Home() {
   }, []);
 
   return (
-    <div className="bg-white h-full w-screen">
+    <div className="bg-white h-full w-screen overflow-x-hidden">
       <div className="pt-[65px] md:pt-[70px]">
         {/* Banner Image */}
         <div>

@@ -31,7 +31,7 @@ export default function TeamPage() {
 
   return (
     <>
-      <div className="bg-white h-full text-cp-font">
+      <div className="bg-white h-full text-cp-font w-screen">
         <div className="bg-[#fbfa97] pt-[70px] mx-4 md:mx-15 h-full">
           {/* Breadcrumbs */}
           <div className="breadcrumbs text-sm text-cp-secondary p-3 mx-4 md:mx-10 mt-8">

@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function ProductPage() {
   return (
-    <div className="bg-white h-full">
+    <div className="bg-white h-full w-screen">
       <div className="pt-[70px]">
         {/* Banner Image */}
         <div className="">

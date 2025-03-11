@@ -5,7 +5,7 @@ import Link from "next/link";
 export default function AboutUsPage() {
   return (
     <>
-      <div className="bg-white h-full">
+      <div className="bg-white h-full w-screen">
         <div className="bg-[#fbfa97] pt-[65px] mx-4 md:mx-15">
           {/* Breadcrumbs */}
           <div className="breadcrumbs text-sm text-cp-secondary p-3 mx-4 md:mx-10 mt-8">
