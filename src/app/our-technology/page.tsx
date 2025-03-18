@@ -38,33 +38,33 @@ export default function TechnologyPage() {
                 <h1 className="text-3xl md:text-5xl font-semibold">
                   Our Technology
                 </h1>
-                <p className="text-sm">Memperkenalkan teknologi kami:</p>
+                <p className="text-sm">Introducing our technology:</p>
                 <h1 className="font-semibold">INTELLIGENT DNA GUARDIAN</h1>
                 <p className="text-sm">
-                  Merupakan teknologi yang hanya dimiliki oleh Amaterasun di
-                  setiap produknya. Mengandung Ethyl Ferulate & Carnosic Acid
-                  yang mampu memproteksi sel dari kerusakan DNA, melindungi
-                  kulit dari sinar UV & blue light, memperkuat skin barrier,
-                  meningkatkan hidrasi kulit.
+                  A technology unique to Amaterasun in all of its products. It
+                  contains Ethyl Ferulate & Carnosic Acid, which can protect
+                  cells from DNA damage, shield the skin from UV rays & blue
+                  light, strengthen the skin barrier, and enhance skin
+                  hydration.
                 </p>
                 <h1 className="font-semibold">
-                  BAGAIMANA DENGAN EFEK DARI INTELLIGENT DNA GUARDIAN?
+                  WHAT ARE THE EFFECTS OF INTELLIGENT DNA GUARDIAN?
                 </h1>
                 <div className="text-sm space-y-2">
                   <p>
-                    1. Hasil dari Uji in vitro 0,001% intelligent DNA Guardian
-                    mampu memperbaiki kerusakan DNA akibat paparan sinar radiasi
-                    UVB.
+                    1. Results from in vitro testing with 0.001% Intelligent DNA
+                    Guardian show it can repair DNA damage caused by UVB
+                    radiation exposure.
                   </p>
                   <p>
-                    2. Hasil Uji in vitro menggunakan metode Imunohistokimia
-                    dimer tinidin (dimier tinidin yang dihasilkan merupakan
-                    penanda adanya kerusakan DNA akibat sinar UV) menunjukan
-                    bahwa tidak ditemukan hasil dimer tinidin setelah 1 jam.
+                    2. Results from in vitro testing using Immunohistochemistry
+                    method dimer tinidin (the tinidin dimer produced is an
+                    indicator of DNA damage due to UV rays) show no dimer
+                    tinidin was found after 1 hour.
                   </p>
                   <p>
-                    3. Hasil Uji in vitro 0,05% Intelligent DNA Guardian mampu
-                    melindungi kulit dari blue light.
+                    3. Results from in vitro testing with 0.05% Intelligent DNA
+                    Guardian show it can protect the skin from blue light.
                   </p>
                 </div>
               </div>
